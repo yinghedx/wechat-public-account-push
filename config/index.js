@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "山西",
+    PROVINCE: "陕西",
     // 所在城市
-    CITY: "运城",
+    CITY: "淳化",
 
     /** 生日相关 */
 
