@@ -21,7 +21,7 @@ export const config = {
     // 所在省份
     PROVINCE: "陕西",
     // 所在城市
-    CITY: "淳化",
+    CITY: "咸阳",
 
     /** 生日相关 */
 
